@@ -2,7 +2,7 @@
 
 This project includes:
 * a burnable and pausable ERC-20 token
-* a refundable crowdsale contract which sells the token at a specicified USD rate
+* a refundable crowdsale contract which sells the token at a specified USD rate
 * 4 periodic vesting contracts
 * 1 timelock contract
 
